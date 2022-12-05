@@ -17,7 +17,7 @@ plot(height~age, data = Loblolly, pch = 23,
      type = "p", col= Loblolly$Seed)
 
 ```
-
+this plot graphs the height of Loblolly pine trees from the 'Loblolly' dataset vs the trees age.
 
 
 
