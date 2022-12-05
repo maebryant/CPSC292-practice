@@ -10,7 +10,7 @@ output: html_notebook
 
 data("Loblolly")
 
-plot(height~age, data = Loblolly, pch = 19,
+plot(height~age, data = Loblolly, pch = 23,
      xlab = "age of tree", 
      ylab = "height of tree",
      main = "Plot of tree height vs age from the Loblolly data set",
